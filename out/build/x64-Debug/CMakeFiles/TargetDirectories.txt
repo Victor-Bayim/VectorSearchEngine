@@ -1,0 +1,9 @@
+C:/Users/Mr.Victor/Desktop/向量搜索引擎/out/build/x64-Debug/CMakeFiles/VectorSearchEngineLib.dir
+C:/Users/Mr.Victor/Desktop/向量搜索引擎/out/build/x64-Debug/CMakeFiles/VectorSearchEngine.dir
+C:/Users/Mr.Victor/Desktop/向量搜索引擎/out/build/x64-Debug/CMakeFiles/VectorSearchEngine_tests.dir
+C:/Users/Mr.Victor/Desktop/向量搜索引擎/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Users/Mr.Victor/Desktop/向量搜索引擎/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Mr.Victor/Desktop/向量搜索引擎/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Mr.Victor/Desktop/向量搜索引擎/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Mr.Victor/Desktop/向量搜索引擎/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/Mr.Victor/Desktop/向量搜索引擎/out/build/x64-Debug/CMakeFiles/install/local.dir

@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Mr.Victor/Desktop/向量搜索引擎/out/build/x64-Debug/CMakeFiles/VectorSearchEngine_tests.dir/embed.manifest"

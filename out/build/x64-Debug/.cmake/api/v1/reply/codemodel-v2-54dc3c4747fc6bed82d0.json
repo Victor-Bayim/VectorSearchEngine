@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-46da9bb6ad4ed62d5f99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VectorSearchEngine",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "VectorSearchEngine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VectorSearchEngine-Debug-23542c403f5e8cf43ee2.json",
+					"name" : "VectorSearchEngine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VectorSearchEngineLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VectorSearchEngineLib-Debug-0b9148a8e6b3d6ad2cbf.json",
+					"name" : "VectorSearchEngineLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VectorSearchEngine_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VectorSearchEngine_tests-Debug-373366e24f156047cf74.json",
+					"name" : "VectorSearchEngine_tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Mr.Victor/Desktop/\u5411\u91cf\u641c\u7d22\u5f15\u64ce/out/build/x64-Debug",
+		"source" : "C:/Users/Mr.Victor/Desktop/\u5411\u91cf\u641c\u7d22\u5f15\u64ce"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
